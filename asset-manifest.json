@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tweeter/static/css/main.63662ee5.css",
+    "main.js": "/Tweeter/static/js/main.4a08824e.js",
+    "static/js/787.e0d44d36.chunk.js": "/Tweeter/static/js/787.e0d44d36.chunk.js",
+    "index.html": "/Tweeter/index.html",
+    "main.63662ee5.css.map": "/Tweeter/static/css/main.63662ee5.css.map",
+    "main.4a08824e.js.map": "/Tweeter/static/js/main.4a08824e.js.map",
+    "787.e0d44d36.chunk.js.map": "/Tweeter/static/js/787.e0d44d36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63662ee5.css",
+    "static/js/main.4a08824e.js"
+  ]
+}
